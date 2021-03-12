@@ -1,0 +1,9 @@
+.dialog {
+    padding: 10px;
+    color: rgb(32, 31, 31);
+}
+
+.dialog a {
+    color: rgb(59, 57, 57);
+    text-decoration: none;
+}

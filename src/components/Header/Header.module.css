@@ -1,0 +1,20 @@
+.header {
+    grid-area: header;
+    background-color: rgb(214, 215, 218);
+  }
+
+  .loginPage {
+    float: right;
+    color: whitesmoke;
+    padding: 10px;
+    font-size: bold;
+  }
+
+ .loginPage a{
+  color: white;
+  text-decoration: none;
+  float: right;
+  margin: 10px;
+  font-weight: bold;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+ } 

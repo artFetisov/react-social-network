@@ -1,0 +1,19 @@
+.navbar {
+    grid-area: navbar;
+    background-color: gray;
+    height: 100%;
+    color: whitesmoke;
+  }
+  .img {
+    width: 100%;
+  }
+  .item {
+    margin: 20px;
+  }
+  .item a {
+    color: white;
+    text-decoration: none;
+  }
+  .item a.active {
+    color:rgb(228, 167, 13);
+  }

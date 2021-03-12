@@ -1,0 +1,20 @@
+.dialogs {
+    display: grid;
+    background-color: rgb(226, 222, 222);
+    margin: 5px;
+    grid-template-columns: 3fr 10fr;
+}
+
+
+
+.dialog {
+    padding: 10px;
+    color: rgb(32, 31, 31);
+}
+
+.dialog a {
+    color: rgb(59, 57, 57);
+    text-decoration: none;
+}
+
+ 
